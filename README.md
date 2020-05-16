@@ -1,4 +1,4 @@
-# Employee Directory 📙📙📙
+# Employee Directory 📘📱👤
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/FullStackForce)
 
 ![FullStackForce](directory.png)
